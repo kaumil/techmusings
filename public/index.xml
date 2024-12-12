@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Draft</title>
+      <link>http://localhost:1313/first-draft-15a8e7964809803585bdfc7333ebf2dd/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/first-draft-15a8e7964809803585bdfc7333ebf2dd/</guid>
+      <description>&lt;h1 id=&#34;first-draft&#34;&gt;First Draft&lt;/h1&gt;&#xA;&lt;p&gt;ID: TMT-1&#xA;Publication Date: December 11, 2024&lt;/p&gt;&#xA;&lt;p&gt;First draft&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1607473129014-0afb7ed09c3a?ixlib=rb-4.0.3&amp;amp;q=85&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=srgb&#34; alt=&#34;https://images.unsplash.com/photo-1607473129014-0afb7ed09c3a?ixlib=rb-4.0.3&amp;amp;q=85&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=srgb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/image003.jpeg&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
